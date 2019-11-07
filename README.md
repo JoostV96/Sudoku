@@ -9,4 +9,4 @@ In case one wants all pencil marks to appear when the hint button is clicked to 
 
 Sudoku_reader.py displays an empty sudoku grid on which the user can input his/her own sudoku. After completing it, click on "done" and exist the window. Clicking on "done" will write the sudoku grid to the .txt file which can then be read in using the sudoku.py program.
 
-Sudoku.txt contains the sudoku grid stored as a list of lists. This file is overwritten each time the "done" button is pressed in Sudoku_read.py. 
+Sudoku.txt contains the sudoku grid stored as a list of lists. This file is overwritten each time the "done" button is pressed in Sudoku_reader.py. 
